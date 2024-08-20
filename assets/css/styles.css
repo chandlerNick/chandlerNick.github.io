@@ -380,6 +380,11 @@ footer {
   aspect-ratio: 4 / 3;
 }
 
+.cv {
+  display: inline-block;
+  display: -moz-inline-stack; /* for firefox 2 */
+}
+
 /* Data Science and Softare Engineering Styles*/
 .all-title-blocks {
   background-color: var(--bg-color);
