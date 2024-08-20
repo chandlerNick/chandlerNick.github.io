@@ -389,6 +389,7 @@ footer {
   margin: auto;
   width: 100%;
   height:50%;
+  content: justify;
   display: inline-block;
   display: -moz-inline-stack; /* for firefox 2 */
 }
