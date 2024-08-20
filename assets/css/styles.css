@@ -374,6 +374,12 @@ footer {
 } 
 
 
+/*pdf*/
+.pdf {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+}
+
 /* Data Science and Softare Engineering Styles*/
 .all-title-blocks {
   background-color: var(--bg-color);
