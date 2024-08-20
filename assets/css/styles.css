@@ -386,12 +386,9 @@ footer {
 }
 
 .cv {
-  margin: auto;
-  width: 100%;
-  height:50%;
-  content: justify;
-  display: inline-block;
-  display: -moz-inline-stack; /* for firefox 2 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Data Science and Softare Engineering Styles*/
