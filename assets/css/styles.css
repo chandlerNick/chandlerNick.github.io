@@ -381,6 +381,9 @@ footer {
 }
 
 .cv {
+  margin: auto;
+  width: 50%;
+  height:50%;
   display: inline-block;
   display: -moz-inline-stack; /* for firefox 2 */
 }
