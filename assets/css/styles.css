@@ -380,6 +380,10 @@ footer {
   margin: 0 auto;
 }
 
+.cv h2 {
+  text-align: center;
+}
+
 .cv {
   max-width: 80rem;
   margin: auto;
