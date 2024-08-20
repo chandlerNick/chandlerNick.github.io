@@ -376,7 +376,7 @@ footer {
 
 /*pdf*/
 .pdf {
-  width: 100%;
+  width: 20.5rem;
   aspect-ratio: 4 / 3;
 }
 
