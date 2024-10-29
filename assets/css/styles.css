@@ -393,7 +393,7 @@ footer {
 
 
 /*streamlit stuff*/
-.streamlit embed {
+.streamlit iframe {
   margin: 0 auto;
 }
 
