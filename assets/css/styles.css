@@ -391,6 +391,25 @@ footer {
   margin-top: 2.5rem;
 }
 
+
+/*streamlit stuff*/
+.streamlit embed {
+  margin: 0 auto;
+}
+
+.streamlit h2 {
+  text-align: center;
+}
+
+.streamlit {
+  max-width: 80rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+
+
 /* Data Science and Softare Engineering Styles*/
 .all-title-blocks {
   background-color: var(--bg-color);
