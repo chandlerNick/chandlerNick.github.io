@@ -27,10 +27,37 @@
         </button>
       </nav>
 
+      <!-- Header -->
       <section class="all-title-blocks">
         <h1>Data Science</h1>
-        <p>In progress...</p>
+        <p>Continually updated...</p>
+        <p>Ordered newest to oldest</p>
       </section>
+
+
+      <!-- Berlin EV Geoviz -->
+      <div class="streamlit">
+        <h2><a href="https://berlinevdistributiongeovisualizer.streamlit.app">Berlin Electric Vehichle Charger Geo-Visualizer</a></h2>
+        <p>
+          In this application, I loaded in data from various government sources about the population and number of charging stations of different PLZ (postal codes) in Berlin. 
+          A heatmap overlay of the map of Berlin, subdivided by PLZ is then presented with a filter for number of inhabitants, and a filter for number of charging stations.
+        </p>
+        <iframe src="https://berlinevdistributiongeovisualizer.streamlit.app/?embedded=true" height="500" width="800"></iframe>
+      </div>
+
+      <!-- Income tax analyzer -->
+      <div class="streamlit">
+        <h2><a href="https://incometaxdataanalyzer.streamlit.app">Income Tax Calculator App via Streamlit</a></h2>
+        <p>
+          In this application, I used publicly available IRS data <a href = https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi>here</a>
+          and processed it to find the median income of 
+          any zipcode in the United States that is described by the data. The information used to do this was the number of tax returns 
+          in each tax bracket and the bracket values themselves. I made the assumption that the income in each bracket rises linearly 
+          and therefore used linear interpolation to approximate the median.
+        </p>
+        <iframe src="https://incometaxdataanalyzer.streamlit.app/?embedded=true" height="500" width="800"></iframe>
+      </div>
+
 
 
       <!-- Projects section -->
@@ -66,10 +93,7 @@
         </div>
       </section>
 
-      <div class="streamlit">
-        <h2>Income Tax Calculator App via Streamlit</h2>
-        <iframe src="https://incometaxdataanalyzer.streamlit.app/?embedded=true" height="500" width="800"></iframe>
-      </div>
+
 
 
 
