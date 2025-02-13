@@ -408,6 +408,23 @@ footer {
   margin-top: 2.5rem;
 }
 
+/*slideshow-presentation stuff*/
+.slideshow-presentation embed {
+  margin: 0 auto;
+}
+
+.slideshow-presentation h2 {
+  text-align: center;
+}
+
+.slideshow-presentation {
+  max-width: 80rem;
+  margin: auto;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+
+
 
 
 /* Data Science and Softare Engineering Styles*/
