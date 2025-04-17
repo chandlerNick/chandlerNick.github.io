@@ -1,0 +1,17 @@
+# Site settings 
+title: "Nick Chandler"
+description: "Data Scientist | Developer | Explorer"
+baseurl: ""
+url: "https://chandlernick.github.io"
+theme: minima
+
+# Author info
+author:
+  name: Nick Chandler
+  email: njchandler2002@gmail.com
+
+# Navigation links
+header_pages:
+  - index.md
+  - projects.md
+  - exploring.md

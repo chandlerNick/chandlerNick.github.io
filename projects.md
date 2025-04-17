@@ -1,0 +1,81 @@
+---
+layout: page
+title: "Projects"
+permalink: /projects/
+---
+
+# 🛠️ Projects
+
+Here I list noteworthy projects that I have built either alone or with a team.
+
+---
+
+## 🌐 K-Means Clustering of Cities
+- Implementation of the K-Means algorithm to cluster cities based on geographic coordinates.
+- [R Markdown HTML Report](reports/LargeCitiesVisualization.html)
+
+## ☁️ Business Intelligence Presentation
+- This is a presentation for a team project to analyze data from a 2006 AOL USA search query dataset which we hosted as an Exasol database on a VM.
+- We were required to augment the database with another dataset, so we chose weather events in the USA during 2006.
+- The skills developed were: SQL, Python, OLAP, ETL, Data Visualization, Tableau, and EDA
+- [Presentation](reports/BIPresentation.pdf)
+
+## ⚡ Berlin Electric Vehicle Charger Geo-Visualizer
+- In this project, I loaded data from various German government sources about the population and charging stations in various postal codes in Berlin.
+- A heatmap overlay of a map of Berlin, subdivided by postal code is presented with options for viewing population, number of charging stations, and estimated new station demand.
+- Finally, a suggestion box functionality allows users to input suggestions attached to a given postal code.
+- [Streamlit Page](https://berlinevdistributiongeovisualizer.streamlit.app/)
+
+## 🪙 Income Tax Calculator
+- In this application I loaded 2020 IRS data and 
+- [Streamlit Page](https://incometaxdataanalyzer.streamlit.app/)
+- [Data](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi)
+
+## 🤖 NumPy Feed Forward Neural Network
+- In this project, I implemented (alone, in NumPy, without the use of LLMs) a customizable feed forward neural network that can have an arbitrary number of layers and hidden units.
+- This was done from the absolute basics, just matrix & vector operations to implement forwardpropagation, backpropagation, and minibatched stochastic gradient descent.
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/DataScience_ML/NNFromScratch)
+
+## 🏠 Housing Price Prediction Report
+- In this project, I worked with a team of 3 other students to apply and compare several different statistical learning methodolgies in R on a real estate dataset from Kaggle.
+- [Report](reports/MultivariateStatisticsHousingPricePrediction.pdf)
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/DataScience_ML/RealEstatePricesReport)
+
+## 🎓 Computer Science BS Senior Project Writeup
+- This project was the culminating work of my senior research project in my bachelor's of computer science.
+- I worked with a team of 3 people to build an applied deep learning model in Python using PyTorch, NumPy, Pandas, and Astropy to predict parameters of binary star systems.
+- [Report](reports/SeniorProjectWriteup.pdf)
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/DataScience_ML/WWUSeniorProject)
+
+## 📈 Data Mining Analysis of Energy Economics Time Series
+- In this project, I worked with one other student to analyze a set of time series concerning energy economics data. 
+- During this project, we worked with faculty in the department of business and economics as well as the department of computer science.
+- The main techniques employed were clustering of time series and sequence mining. Traditional techniques for forecasting were not explored.
+- [Report](reports/AnalysisOfEnergyEconomicsTimeSeries.pdf)
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/DataScience_ML/EnergyTimeSeries)
+
+## ⚙️ Toy Operating System
+- In this project, as we worked through the textbook: Operating Systems Concepts 10th Edition, we had to individually implement (in KPL & Assembly) a toy operating system, the Blitz OS.
+- Due to academic integrity constraints I cannot publish my solution for this but I found the course instrumental in developing a deepened understanding of how operating systems work.
+- [Book](https://en.wikipedia.org/wiki/Operating_System_Concepts)
+- [Blitz OS Description](https://web.cecs.pdx.edu/~harry/Blitz/BlitzDoc/BlitzOverview.htm)
+- [Blitz OS GitHub](https://github.com/hhauer/blitz)
+
+## ⚙️ lsdir Implementation in C
+- This was a midterm live coding question which I did before the advent of ChatGPT.
+- We were given only 50 minutes to complete the program but I managed to get full points including extra credit.
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/Programming/Systems_Networking/lsdirImplementation)
+
+## 📡 TCP Client Server
+- In this class project, I implemented a client server architecture that allowed for the communication of messages using TCP/IP and UNIX sockets in C.
+- [Assignment Description](reports/AncientBookCurses.pdf)
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/Programming/Systems_Networking/TCPClientServer)
+
+## 📡 UDP Load Balancing Server
+- In this class project, I implemented a UDP load balancing server using UNIX sockets in C.
+- The assignment description is on the GitHub but in MS Word...
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/Programming/Systems_Networking/UDPLoadBalancingServer)
+
+## 📝 Text Editor
+- In this assignment, I followed a lab to implement a text editor in Java. While not the most involved project, it is still a fun one.
+- [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/Programming/DataStructures_Algos/TextEditor)
