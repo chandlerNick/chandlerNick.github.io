@@ -11,13 +11,19 @@ Here I list noteworthy projects that I have built either alone or with a team.
 ---
 
 ## 🌐 K-Means Clustering of Cities
-- Implementation of the K-Means algorithm to cluster cities based on geographic coordinates.
-- [R Markdown HTML Report](reports/LargeCitiesVisualization.html)
+- Implementation of the K-Means algorithm to cluster high population cities based on geographic coordinates.
+- I wrote this in R Markdown for fun.
+- [Report](reports/LargeCitiesVisualization.html)
+
+## 🏦 Messenger Bot
+- In this project, I setup messaging with the Telegram API, GitHub actions, and yfinance to ping my phone each day before the US Stock Exchange opens with information about the S&P 500 and crypto.
+- A future direction I am interested in is having LLMs summarize news articles and send a daily report to my phone from a curated list of sources.
+- [GitHub](https://github.com/chandlerNick/TechnoHerald)
 
 ## ☁️ Business Intelligence Presentation
-- This is a presentation for a team project to analyze data from a 2006 AOL USA search query dataset which we hosted as an Exasol database on a VM.
+- This is a presentation for a team project to analyze data from a 2006 AOL USA search query dataset which we hosted as an Exasol database on a Virtual Machine.
 - We were required to augment the database with another dataset, so we chose weather events in the USA during 2006.
-- The skills developed were: SQL, Python, OLAP, ETL, Data Visualization, Tableau, and EDA
+- The skills developed were: SQL, Python, OLAP, ETL, Data Visualization, Tableau, and EDA.
 - [Presentation](reports/BIPresentation.pdf)
 
 ## ⚡ Berlin Electric Vehicle Charger Geo-Visualizer
