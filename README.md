@@ -19,5 +19,5 @@ s
 
 ## Adding New Projects
 
-- Edit `projects.md` and append a new section.
-- Place any PDFs under `assets/` and HTML under `reports/`.
+- Edit `projects.md` and prepend a new section.
+- Place any project-related files under `reports/`.
