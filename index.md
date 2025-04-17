@@ -10,7 +10,7 @@ I'm a Data Scientist and Developer passionate about building things and understa
 
 📄 [Download my CV](/assets/Nicks_Resume.pdf)
 
-🔗 [GitHub](https://github.com/chandlernick) | [LinkedIn](https://www.linkedin.com/in/chandler-nick)
+🐙 [GitHub](https://github.com/chandlernick) | 🔗 [LinkedIn](https://www.linkedin.com/in/chandler-nick)
 
 ---
 
