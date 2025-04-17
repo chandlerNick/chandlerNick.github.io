@@ -62,7 +62,7 @@ Here I list noteworthy projects that I have built either alone or with a team.
 ## 🧮 Joint Mathematics Meetings Poster
 - In this poster, I presented research regarding the simulation study aspect of the development of a novel class of statistical tests at the 2024 Joint Mathematics Meetings in San Francisco.
 - This was done under supervision of Professor Kimihiro Noguchi of the WWU Mathematics department.
-- We obtained funding from the WWU Mathematics department to travel to and stay in San Francisco for the 2024 .
+- We obtained funding from the WWU Mathematics department to travel to and stay in San Francisco for the 2024 Joint Mathematics Meetings.
 - [Poster](reports/A_Simulation_Study_for_the_Evaluation_of_a_Novel_Class_of_Statistical_Tests.pdf)
 
 ## 📈 Data Mining Analysis of Energy Economics Time Series
