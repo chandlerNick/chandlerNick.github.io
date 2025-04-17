@@ -47,6 +47,18 @@ Here I list noteworthy projects that I have built either alone or with a team.
 - [Report](reports/MultivariateStatisticsHousingPricePrediction.pdf)
 - [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/DataScience_ML/RealEstatePricesReport)
 
+## 🗣️ Statistics Research Presentation
+- In this project, I present an example application of a novel statistical test to reaction times data.
+- This was worked on under the supervision of Professor Kimihiro Noguchi of the WWU Mathematics department.
+- We obtained funding from the WWU Mathematics department to travel to the 2024 Pacific inland Undergraduate Mathematics Conference (PiMUC) to present.
+- [Presentation](reports/PiMUC_2024_Presentation_Chandler.pdf)
+
+## 🧮 Joint Mathematics Meetings Poster
+- In this poster, I presented research regarding the simulation study aspect of the development of a novel class of statistical tests at the 2024 Joint Mathematics Meetings in San Francisco.
+- This was done under supervision of Professor Kimihiro Noguchi of the WWU Mathematics department.
+- We obtained funding from the WWU Mathematics department to travel to and stay in San Francisco for the 2024 .
+- [Poster](reports/A_Simulation_Study_for_the_Evaluation_of_a_Novel_Class_of_Statistical_Tests.pdf)
+
 ## 🎓 Computer Science BS Senior Project Writeup
 - This project was the culminating work of my senior research project in my bachelor's of computer science.
 - I worked with a team of 3 people to build an applied deep learning model in Python using PyTorch, NumPy, Pandas, and Astropy to predict parameters of binary star systems.
