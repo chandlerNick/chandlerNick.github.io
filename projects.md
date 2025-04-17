@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# 🛠️ Projects
+# 🛠️ 🛠️ 🛠️
 
 Here I list noteworthy projects that I have built either alone or with a team.
 
@@ -33,7 +33,7 @@ Here I list noteworthy projects that I have built either alone or with a team.
 - [Streamlit Page](https://berlinevdistributiongeovisualizer.streamlit.app/)
 
 ## 🪙 Income Tax Calculator
-- In this application I loaded 2020 IRS data and 
+- In this application I loaded 2020 IRS data and used linear interpolation of tax brackets to compute the estimated median income of various zip codes in the United States.
 - [Streamlit Page](https://incometaxdataanalyzer.streamlit.app/)
 - [Data](https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2020-zip-code-data-soi)
 
