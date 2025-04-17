@@ -10,7 +10,7 @@ This repository contains a Jekyll-based GitHub Pages portfolio site.
 - `exploring.md` - Page listing miscellaneous not necessarily technology related posts.
 - `reports/` – Static HTML outputs from RMarkdown/Shiny
 - `assets/` – Static files (resume, pdf reports)
-s
+
 ## Deployment
 
 1. Push this repo to `yourusername/yourusername.github.io`.
