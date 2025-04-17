@@ -22,6 +22,8 @@ Here I will add some trip reports and random things that I want to document and 
 
 ## Nikolaus Lauf Halbmarathon - Nov. 2024
 
+## Istanbul Trip - Sept. 2024
+
 ## Mount St. Helen's Summit Trip - Aug. 2024
 
 ## Mount Adams Summit Trip - Aug. 2024
@@ -37,4 +39,3 @@ Here I will add some trip reports and random things that I want to document and 
 ## Seattle Half-Marathon - Nov. 2023
 
 ## Bellingham Bay Marathon - Sept. 2023
-
