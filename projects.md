@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# 🛠️ 🛠️ 🛠️
-
 Here I list noteworthy projects that I have built either alone or with a team.
 
 ---
