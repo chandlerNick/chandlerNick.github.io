@@ -6,7 +6,7 @@ peramlink: /
 
 # 👋 Hi, I'm Nick
 
-📄 [My one page resume](/assets/Nicks_Resume.pdf)
+📄 [My one page resume](/assets/Nicks_Resume.pdf) | 🛠️ [Projects](projects.md)
 
 🐙 [GitHub](https://github.com/chandlernick) | 🔗 [LinkedIn](https://www.linkedin.com/in/chandler-nick)
 
@@ -14,8 +14,10 @@ peramlink: /
 
 ## About Me
 
-I am a current Master's Student at BHT Berlin in Germany. After growing up in Seattle, WA, USA, I found that technology and specifically software has a large impact on the development of society. This sparked my interest in Machine Learning and more broadly, AI, which has lead me to where I am today. I enjoy learning about how things work and aspire most to build things that have the power to drive the world forward.
+I am currently pursuing a Master’s degree at BHT Berlin in Germany. Originally from Seattle, Washington, USA, I developed a deep interest in the transformative role of technology—particularly software—in shaping society. This curiosity led me to the field of Machine Learning and, more broadly, Artificial Intelligence, which continues to drive my academic and professional journey.
 
-In addition to my work in science & technology, I enjoy exploring the world around me (often via hiking and biking).
+I’m passionate about understanding how things work and am most inspired by creating solutions that can contribute meaningfully to progress and innovation.
 
-If you're interested, check out some of the the [projects](projects.md) I've been working on.
+Beyond my work in science and technology, I enjoy exploring the world around me—often through hiking and biking.
+
+Feel free to take a look at some of the [projects](projects.md) I’ve been working on.
