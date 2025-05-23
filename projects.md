@@ -8,6 +8,17 @@ Here I list noteworthy projects that I have built either alone or with a team.
 
 ---
 
+## 📊 tab-err PyPi Contribution
+- Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, repo on PyPi.
+- Wrote basic tests, developed a high level api, and modified some othe error types as well as work on bug fixes in python. 
+- [PyPi](https://pypi.org/project/tab-err/)
+- [GitHub](https://github.com/calgo-lab/tab_err)
+
+## 📖 Editing/ Errata Addition of Machine Learning Kurz & Gut
+- I read the book Machine Learning Kurz und Gut in German and pointed out a few errors to the author.
+- Shows some proficiency in German written communication.
+- [Github](https://github.com/DJCordhose/buch-machine-learning-notebooks)
+
 ## 🌐 K-Means Clustering of Cities
 - Implementation of the K-Means algorithm to cluster high population cities based on geographic coordinates.
 - I wrote this in R Markdown for fun.
