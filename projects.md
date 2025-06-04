@@ -8,8 +8,13 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 ---
 
-## 📊 tab-err PyPi Contribution
-- Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, repo on PyPi.
+## 4️⃣ Anscombe's Quartet
+- Details the importance of data visualization by an exploratory analysis of Anscombe's Quartet in R.
+- Written in R Markdown
+- [Report](reports/AnscombesQuartet.html)
+
+## 📊 tab-err PyPi (Open Source Contribution)
+- Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
 - Wrote basic tests, developed a high level api, and modified some othe error types as well as work on bug fixes in python. 
 - [PyPi](https://pypi.org/project/tab-err/)
 - [GitHub](https://github.com/calgo-lab/tab_err)
