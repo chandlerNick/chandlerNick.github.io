@@ -8,16 +8,34 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 ---
 
+# Spotlight Projects
+
+## 🗄️ RAG/Vector DB/BERT Fine Tune
+- In this project, I worked on implementing a RAG system. This included fine tuning BERT on a kubernetes cluster and comparing vector databases such as Annoy and FAISS.
+- I worked with one other student and I worked on English data while they worked on German data.
+- [Presentation (English Data)](reports/BERT_FT_VDB_RAG.pdf)
+- [Vector DB Notebook](reports/VectorDB.html)
+- [RAG Notebook](reports/RAG.html)
+- [GitHub](https://github.com/chandlerNick/Tax_Law_RAG)
+
+## 📊 tab-err PyPi (Open Source Contribution)
+- Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
+- Wrote basic tests, developed a high level api, and modified some othe error types as well as work on bug fixes in python.
+- [PyPi](https://pypi.org/project/tab-err/)
+- [GitHub](https://github.com/calgo-lab/tab_err)
+
+---
+
+## 🕵️ CIA World Factbook Visualization
+- Coming Soon...
+
+## ☁️ Weather Timeseries Forecasting
+- Coming Soon...
+
 ## 4️⃣ Anscombe's Quartet
 - Details the importance of data visualization by an exploratory analysis of Anscombe's Quartet in R.
 - Written in R Markdown
 - [Report](reports/AnscombesQuartet.html)
-
-## 📊 tab-err PyPi (Open Source Contribution)
-- Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
-- Wrote basic tests, developed a high level api, and modified some othe error types as well as work on bug fixes in python. 
-- [PyPi](https://pypi.org/project/tab-err/)
-- [GitHub](https://github.com/calgo-lab/tab_err)
 
 ## 📖 Editing/ Errata Addition of Machine Learning Kurz & Gut
 - I read the book Machine Learning Kurz und Gut in German and pointed out a few errors to the author.
