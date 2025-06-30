@@ -11,7 +11,7 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 # Spotlight Projects
 
 ## 🗄️ RAG/Vector DB/BERT Fine Tune
-- In this project, I worked on implementing a RAG system. This included fine tuning BERT on a kubernetes cluster and comparing vector databases such as Annoy and FAISS.
+- In this project, I worked on implementing a RAG system. This included fine tuning BERT on a kubernetes cluster, comparing vector databases such as Annoy and FAISS, and using LangChain to build the pipeline.
 - I worked with one other student and I worked on English data while they worked on German data.
 - [Presentation (English Data)](reports/BERT_FT_VDB_RAG.pdf)
 - [Vector DB Notebook](reports/VectorDB.html)
@@ -20,16 +20,21 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 ## 📊 tab-err PyPi (Open Source Contribution)
 - Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
-- Wrote basic tests, developed a high level api, and modified some othe error types as well as work on bug fixes in python.
+- Wrote basic tests, developed a high level api, and modified some other error types as well as worked on bug fixes in python.
 - [PyPi](https://pypi.org/project/tab-err/)
 - [GitHub](https://github.com/calgo-lab/tab_err)
+
+## 🌐 K-Means Clustering of Cities
+- Implementation of the K-Means algorithm to cluster high population cities based on geographic coordinates.
+- I wrote this in R Markdown for fun.
+- [Report](reports/LargeCitiesVisualization.html)
 
 ---
 
 ## 🕵️ CIA World Factbook Visualization
 - Coming Soon...
 
-## ☁️ Weather Timeseries Forecasting
+## ☁️ Weather Time Series Forecasting
 - Coming Soon...
 
 ## 4️⃣ Anscombe's Quartet
@@ -41,11 +46,6 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - I read the book Machine Learning Kurz und Gut in German and pointed out a few errors to the author.
 - Shows some proficiency in German written communication.
 - [Github](https://github.com/DJCordhose/buch-machine-learning-notebooks)
-
-## 🌐 K-Means Clustering of Cities
-- Implementation of the K-Means algorithm to cluster high population cities based on geographic coordinates.
-- I wrote this in R Markdown for fun.
-- [Report](reports/LargeCitiesVisualization.html)
 
 ## 🏦 Messenger Bot
 - In this project, I setup messaging with the Telegram API, GitHub actions, and yfinance to ping my phone each day before the US Stock Exchange opens with information about the S&P 500 and crypto.
