@@ -14,6 +14,8 @@ peramlink: /
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chandler-nick)
 
+🪷 [ORCID](https://orcid.org/0009-0003-6546-2994)
+
 ---
 
 ## About Me
@@ -25,3 +27,4 @@ I’m passionate about understanding how things work and am most inspired by cre
 Beyond my work in science and technology, I enjoy exploring the world around me—often through hiking and biking.
 
 Feel free to take a look at some of the [projects](projects.md) I’ve been working on.
+
