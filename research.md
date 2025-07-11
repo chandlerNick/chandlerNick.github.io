@@ -27,8 +27,8 @@ Coming Soon (hopefully...)
 ## 🗣️ PiMUC 2023 Statistics Research Presentation (WWU)
 - In this project, I present a statistical test developed by Professor Kimihiro Noguchi of the WWU mathetmatics department, on which I contributed by running experiment code on the compute cluster and doing data visualization.
 - This was worked on under the supervision of Professor Kimihiro Noguchi of the WWU Mathematics department.
+- We obtained funding from the WWU Mathematics department to travel to the 2023 Pacific inland Undergraduate Mathematics Conference (PiMUC) to present.
 - [Presentation](reports/Presentation_WI23.pdf)
-
 
 # Posters
 
@@ -46,6 +46,7 @@ Coming Soon (hopefully...)
 
 ## 🧮 Society of Industrial and Applied Mathematicians 2023 Biannual Meeting Poster (WWU)
 - In this poster, I presented on the simulation study component of the development of a novel class of non-parametric statistical tests developed by Professor Kimihiro Noguchi in the WWU Mathematics Department.
+- The SIAM 2023 Biannual Meeting was hosted at WWU.
 - [Poster](reports/SIAM2023_Poster.pdf)
 
 # Organizations
