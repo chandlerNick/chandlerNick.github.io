@@ -6,7 +6,7 @@ permalink: /research/
 
 This page showcases academic research I have participated in. That is, projects that take place in an academic community with the intent of publishing.
 
-There is a non-empty intersection between the projects listed here and those listed in `projects.md`.
+There is a non-empty intersection between the projects listed here and those listed in [Projects](projects.md).
 
 ---
 

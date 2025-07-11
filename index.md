@@ -8,8 +8,6 @@ peramlink: /
 
 📄 [My one page resume](/assets/Nicks_Resume.pdf)
 
-🛠️ [Projects](projects.md)
-
 🐙 [GitHub](https://github.com/chandlernick)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chandler-nick)
