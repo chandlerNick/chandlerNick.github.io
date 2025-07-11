@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "New Page"
-permalink: /newpage/
+title: "Research"
+permalink: /research/
 ---
 
 This page showcases academic research I have participated in. That is, projects that take place in an academic community with the intent of publishing.
