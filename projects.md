@@ -35,7 +35,11 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - Coming Soon...
 
 ## ☁️ Weather Time Series Forecasting
-- Coming Soon...
+- In this project, I worked with a team of 2 other students to implement various time series forecasting models.
+- We utilized kubernetes, docker, and VSCode Remote SSH to prototype models on the BHT Berlin's V100 & A100 GPUs.
+- I scraped the website of my friend's weather station to acquire the data and implemented two models. 
+- [Presentation](reports/BLN_Weather_TS.pdf)
+- [GitHub](https://github.com/chandlerNick/BerlinWeatherTimeSeriesAnalysis)
 
 ## 4️⃣ Anscombe's Quartet
 - Details the importance of data visualization by an exploratory analysis of Anscombe's Quartet in R.
@@ -78,7 +82,6 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - In this project, I worked with a team of 3 other students to apply and compare several different statistical learning methodolgies in R on a real estate dataset from Kaggle.
 - [Report](reports/MultivariateStatisticsHousingPricePrediction.pdf)
 - [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/DataScience_ML/RealEstatePricesReport)
-
 
 ## 🎓 Computer Science BS Senior Project Writeup
 - This project was the culminating work of my senior research project in my bachelor's of computer science.
