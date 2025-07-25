@@ -11,9 +11,10 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 # Spotlight Projects
 
 ## 🗄️ RAG/Vector DB/BERT Fine Tune
-- In this project, I worked on implementing a RAG system. This included fine tuning BERT on a kubernetes cluster, comparing vector databases such as Annoy and FAISS, and using LangChain to build the pipeline.
+- In this project, I worked on implementing a RAG system. This included fine tuning BERT on a kubernetes cluster, comparing vector databases such as Annoy and FAISS, and using LangChain to build the pipeline. 
 - I worked with one other student and I worked on English data while they worked on German data.
-- [Presentation (English Data)](reports/BERT_FT_VDB_RAG.pdf)
+- Disclaimer: The GitHub is built like research code, other projects do a better job of indsutrial structure. 
+- [Presentation](reports/BERT_FT_VDB_RAG.pdf)
 - [Vector DB Notebook](reports/VectorDB.html)
 - [RAG Notebook](reports/RAG.html)
 - [GitHub](https://github.com/chandlerNick/Tax_Law_RAG)
@@ -32,7 +33,9 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 ---
 
 ## 🕵️ CIA World Factbook Visualization
-- Coming Soon...
+- In this project, I worked with a group of 4 other students to create a report on the CIA World Fact Book.
+- We were guided through the analysis by 5 research questions, the last two were done by me.
+- [Report](reports/CIA_WFB_Report.pdf)
 
 ## ☁️ Weather Time Series Forecasting
 - In this project, I worked with a team of 2 other students to implement various time series forecasting models.
