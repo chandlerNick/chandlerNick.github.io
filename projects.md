@@ -36,6 +36,8 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - In this project, I worked with a group of 4 other students to create a report on the CIA World Fact Book.
 - We were guided through the analysis by 5 research questions, the last two were done by me.
 - [Report](reports/CIA_WFB_Report.pdf)
+- [GitHub](https://github.com/chandlerNick/BHTDataVisualizationCourse)
+- [CIA World Fact Book](https://www.cia.gov/the-world-factbook/)
 
 ## ☁️ Weather Time Series Forecasting
 - In this project, I worked with a team of 2 other students to implement various time series forecasting models.

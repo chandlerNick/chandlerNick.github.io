@@ -14,7 +14,7 @@ Coming Soon (hopefully...)
 
 ## 📝 Tab-Err
 
-## 📝 Time Series arXiv project (BHT)
+## 📝 MechDetect
 
 ---
 
