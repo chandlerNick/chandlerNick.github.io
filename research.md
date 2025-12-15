@@ -10,11 +10,38 @@ This page showcases academic research I have participated in. That is, projects 
 
 # Publications
 
-Coming Soon (hopefully...)
+## 📝 EBAI
+
+Coming Soon... (hopefully) 
+
+## 📝 MechDetect
+
+I ran the experiments for (and co-authored) this paper: [**MechDetect: Detecting Data-Dependent Errors**](https://arxiv.org/abs/2512.04138). It has been accepted at the IEEE conference DSIS 2025.
+
+*Abstract:*
+
+Data quality monitoring is a core challenge in modern information processing systems. While many approaches to detect data errors or shifts have been proposed, few studies investigate the mechanisms governing error generation. We argue that knowing how errors were generated can be key to tracing and fixing them. In this study, we build on existing work in the statistics literature on missing values and propose MechDetect, a simple algorithm to investigate error generation mechanisms. Given a tabular data set and a corresponding error mask, the algorithm estimates whether or not the errors depend on the data using machine learning models. Our work extends established approaches to detect mechanisms underlying missing values and can be readily applied to other error types, provided that an error mask is available. We demonstrate the effectiveness of MechDetect in experiments on established benchmark datasets.
+
+*Contributions:*
+
+I ran the experiments, produced some of the scientific visualizations, and wrote prose.
 
 ## 📝 Tab-Err
 
-## 📝 MechDetect
+I assisted with the revisions of (and co-authored) the paper: [**Towards Realistic Error Models for Tabular Data**](https://dl.acm.org/doi/10.1145/3774914). It has been accepted to the Journal of Data and Information Quality of the ACM.
+
+*Abstract:*
+
+Errors in data are a key challenge in modern data management and processing systems. Monitoring and mitigating risks associated with errors in data transformations and downstream applications, such as Machine Learning (ML) model training, requires a profound understanding of error generation and impact of errors on data pipelines. Unfortunately, scientific progress in the field is facing two main challenges: For one, research on data errors often does not adhere to the FAIR (Findable, Accessible, Interoperable, and Reusable) principles, which impedes reproducibility and comparisons. Second, existing data error models are oversimplified and fail to capture the complex statistical dependencies underlying the types and distributions of errors observed in real-world data. Building on prior work in the database management systems and statistics literature, we extend the theory on missing values to encompass a broader range of errors in tables and provide an overview of relevant error types. Combining error sampling mechanisms often observed in real data with a comprehensive categorization of errors, we introduce a latent factor model for tabular data errors that is simple to implement and can effectively model realistic error dependencies. Error sampling is decoupled from error types, which allows for simple extensions with more error types or sampling mechanisms. Using established benchmarks, we evaluate our model in two application scenarios, data cleaning and tabular ML tasks. In a comprehensive suite of experiments we demonstrate the impact of realistic error models on data cleaning benchmarks. Our results also show that a simple generative error model captures a wide range of error mechanisms and offers a convenient formalization of data perturbations to improve the generalizability, robustness and reproducibility of data cleaning research.
+
+*Contributions:*
+
+I ran experiments to determine the scalability of the library with respect to memory and runtime. I also ran experiments to determine how different error models affect the downstream performance of machine learning models. Finally, I aided in the presentation of the results via prose checking and producing scientific visualizations.
+
+## 📖 Editing/ Errata Addition of Machine Learning Kurz & Gut
+- I read the book Machine Learning Kurz und Gut in German and pointed out a few errors to the author.
+- Shows some proficiency in German written communication.
+- [Github](https://github.com/DJCordhose/buch-machine-learning-notebooks)
 
 ---
 
