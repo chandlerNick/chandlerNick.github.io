@@ -10,21 +10,25 @@ This page showcases academic research I have participated in. That is, projects 
 
 # Publications
 
+## 📝 Generating, Cleaning, and Characterizing Realistic Errors in Tables
+
+Coming soon... (hopefully)
+
 ## 📝 EBAI
 
-Coming Soon... (hopefully) 
+Coming soon... (hopefully) 
 
 ## 📝 MechDetect
 
-I ran the experiments for (and co-authored) this paper: [*MechDetect: Detecting Data-Dependent Errors*](https://arxiv.org/abs/2512.04138). It has been accepted at the IEEE conference DSIS 2025.
+I ran the experiments for (and co-authored) this paper: [*MechDetect: Detecting Data-Dependent Errors*](https://arxiv.org/abs/2512.04138). It has been accepted at the IEEE conference Data Science and Intelligent Systems 2025.
 
 **Abstract:**
 
 Data quality monitoring is a core challenge in modern information processing systems. While many approaches to detect data errors or shifts have been proposed, few studies investigate the mechanisms governing error generation. We argue that knowing how errors were generated can be key to tracing and fixing them. In this study, we build on existing work in the statistics literature on missing values and propose MechDetect, a simple algorithm to investigate error generation mechanisms. Given a tabular data set and a corresponding error mask, the algorithm estimates whether or not the errors depend on the data using machine learning models. Our work extends established approaches to detect mechanisms underlying missing values and can be readily applied to other error types, provided that an error mask is available. We demonstrate the effectiveness of MechDetect in experiments on established benchmark datasets.
 
-*Contributions:*
+**Contributions:**
 
-I ran the experiments, produced some of the scientific visualizations, and wrote prose.
+I ran the experiments, produced some of the scientific visualizations, and wrote the prose.
 
 ## 📝 Tab-Err
 

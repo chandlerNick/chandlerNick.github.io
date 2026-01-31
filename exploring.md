@@ -10,6 +10,22 @@ Here I will add some trip reports and random things that I want to document and 
 
 ---
 
+## Warsaw Trip - Jan. 2026
+
+## Tampa Trip - Dec. 2025
+
+## Tempelhofer Feld Half-Marathon - Oct. 2025
+
+~1:45:00
+
+## London Trip - Sept. 2025
+
+## Seattle/Reno Trip - Sept. 2025
+
+## Prague Trip - Aug. 2025
+
+## Brocken Summit Trip - Aug. 2025
+
 ## München Trip - Mar. 2025
 
 ## Rome Trip - Feb. 2025
@@ -20,7 +36,9 @@ Here I will add some trip reports and random things that I want to document and 
 
 ## Hamburg Trip - Jan. 2025
 
-## Nikolaus Lauf Halbmarathon - Nov. 2024
+## Nikolaus Lauf Half-Marathon - Nov. 2024
+
+~1:45:00
 
 ## Istanbul Trip - Sept. 2024
 

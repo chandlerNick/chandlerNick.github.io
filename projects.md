@@ -10,7 +10,18 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 # Spotlight Projects
 
-## 🗄️ RAG/Vector DB/BERT Fine Tuning
+## ☁️ Berlin PM2.5 Spatiotemporal Modeling
+- In this project, I built a data pipeline that scrapes a [website](https://sensor.community/en/) daily for sds011 sensor data, does ETL, does inference, and serves a simple front-end (internal to the university network). Each component was containerized with docker and deployed on the cluster with kubernetes.
+- I used Amazon's [Chronos2](https://arxiv.org/abs/2510.15821) time series foundation model and ordinary kriging to do spatiotemporal modeling.
+- [GitHub](https://github.com/chandlerNick/bln-aq)
+
+## 📊 tab-err - Tabular Data Error Generation Library
+- Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
+- Wrote basic tests, developed a high level api, and modified some other error types as well as worked on bug fixes in python.
+- [PyPi](https://pypi.org/project/tab-err/)
+- [GitHub](https://github.com/calgo-lab/tab_err)
+
+## 🗄️ Tax Law RAG System
 - In this project, I worked on implementing a RAG system. This included fine tuning BERT on a kubernetes cluster, comparing vector databases such as Annoy and FAISS, and using LangChain to build the pipeline. 
 - I worked with one other student and I worked on English data while they worked on German data.
 - Disclaimer: The GitHub is built like research code, other projects do a better job of indsutrial structure. 
@@ -19,21 +30,31 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - [RAG Notebook](reports/RAG.html)
 - [GitHub](https://github.com/chandlerNick/Tax_Law_RAG)
 
-## 📊 tab-err PyPi (Open Source Contribution)
-- Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
-- Wrote basic tests, developed a high level api, and modified some other error types as well as worked on bug fixes in python.
-- [PyPi](https://pypi.org/project/tab-err/)
-- [GitHub](https://github.com/calgo-lab/tab_err)
-
-## 🌐 K-Means Clustering of Cities
-- Implementation of the K-Means algorithm to cluster high population cities based on geographic coordinates.
-- I wrote this in R Markdown for fun.
-- [Report](reports/LargeCitiesVisualization.html)
-
 ---
 
-## 🕵️ CIA World Factbook Visualization
-- In this project, I worked with a group of 4 other students to create a report on the CIA World Fact Book.
+## 🪙 Dynamic Pricing Competition 2026
+- This was a long running project where I iterated on various designs for a revenue-maximizing algorithm under competition in a duopoly simulation.
+- I worked with one other person with whom I loosely collaborated in terms of ideas + data exchange.
+- Placement (TBD... competition simulations are in progress)
+- [Competition Website](https://www.dynamic-pricing-competition.com/)
+- [Presentation 1](reports/DPC-Presentation-1.pdf) | [Presentation 2](reports/DPC-Presentation-2.pdf) | [Presentation 3](reports/DPC-Presentation-3.pdf) | Presentation 4 coming soon...
+- GitHub Repo is private
+
+## 🦜 LangGraph Agentic Email Answering Demo
+- This project implements the demo from the article [Thinking in LangGraph](https://docs.langchain.com/oss/python/langgraph/thinking-in-langgraph). It was done with a group of 5 students.
+- I worked on serving the LLM on the university compute cluster (Nvidia A100 80GB GPUs), implementing the agent for our purposes, and "plumbing together" the LLM + Agent.
+- [Presentation](reports/Agentic_Email_Automation_Presentation.pdf)
+- [GitHub](https://github.com/chandlerNick/langchain-multi-agent-demo)
+
+## ⚾ ML Baseball Analytics
+- In this project, I worked with and led a group of 3 other students to create a report covering the prediction of next-season batting average given the current season's player statistics.
+- We implemented several machine learning models including gradient boosted decision trees and utilized XAI techniques including SHAP.
+- We did the project in R Markdown.
+- [Report](reports/ML2_Project_Report.pdf)
+- [Github](https://github.com/chandlerNick/ml-baseball-analytics/tree/main)
+
+## 🕵️ CIA World Factbook Data Visualization
+- In this project, I worked with a group of 4 other students to create an R Markdown report on the CIA World Fact Book to survey data visualization techniques.
 - We were guided through the analysis by 5 research questions, the last two were done by me.
 - [Report](reports/CIA_WFB_Report.pdf)
 - [GitHub](https://github.com/chandlerNick/BHTDataVisualizationCourse)
@@ -41,14 +62,19 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 ## ☁️ Weather Time Series Forecasting
 - In this project, I worked with a team of 2 other students to implement various time series forecasting models.
-- We utilized kubernetes, docker, and VSCode Remote SSH to prototype models on the BHT Berlin's V100 & A100 GPUs.
+- We utilized kubernetes, docker, and VSCode Remote SSH to prototype models on the BHT Berlin's Nvidia V100 & A100 GPUs.
 - I scraped the website of my friend's weather station to acquire the data and implemented two models. 
 - [Presentation](reports/BLN_Weather_TS.pdf)
 - [GitHub](https://github.com/chandlerNick/BerlinWeatherTimeSeriesAnalysis)
 
+## 🌐 K-Means Clustering of Cities
+- Implementation of the K-Means algorithm to cluster high population cities based on geographic coordinates.
+- I wrote this in R Markdown for fun.
+- [Report](reports/LargeCitiesVisualization.html)
+
 ## 4️⃣ Anscombe's Quartet
 - Details the importance of data visualization by an exploratory analysis of Anscombe's Quartet in R.
-- Written in R Markdown
+- Written in R Markdown.
 - [Report](reports/AnscombesQuartet.html)
 
 ## 🏦 Messenger Bot
