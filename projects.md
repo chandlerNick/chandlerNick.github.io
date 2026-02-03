@@ -37,7 +37,7 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - I worked with one other person with whom I loosely collaborated in terms of ideas + data exchange.
 - Placement (TBD... competition simulations are in progress)
 - [Competition Website](https://www.dynamic-pricing-competition.com/)
-- [Presentation 1](reports/DPC-Presentation-1.pdf) | [Presentation 2](reports/DPC-Presentation-2.pdf) | [Presentation 3](reports/DPC-Presentation-3.pdf) | Presentation 4 coming soon...
+- [Presentation 1](reports/DPC-Presentation-1.pdf) | [Presentation 2](reports/DPC-Presentation-2.pdf) | [Presentation 3](reports/DPC-Presentation-3.pdf) | [Presentation 4](reports/DPC-Presentation-4.pdf)
 - GitHub Repo is private
 
 ## 🦜 LangGraph Agentic Email Answering Demo
