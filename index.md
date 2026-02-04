@@ -6,13 +6,11 @@ permalink: /
 
 # 👋 Hi, I'm Nick
 
-📄 [My one page resume](/assets/Nicks_Resume.pdf)
+[📄 My one page resume](/assets/Nicks_Resume.pdf)
 
-🐙 [GitHub](https://github.com/chandlernick)
+[🐙 GitHub](https://github.com/chandlernick)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chandler-nick)
-
-🪷 [ORCID](https://orcid.org/0009-0003-6546-2994)
+[🔗 LinkedIn](https://www.linkedin.com/in/chandler-nick)
 
 ---
 
