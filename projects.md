@@ -38,7 +38,7 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - Placement (TBD... competition simulations are in progress)
 - [Competition Website](https://www.dynamic-pricing-competition.com/)
 - [Presentation 1](reports/DPC-Presentation-1.pdf) | [Presentation 2](reports/DPC-Presentation-2.pdf) | [Presentation 3](reports/DPC-Presentation-3.pdf) | [Presentation 4](reports/DPC-Presentation-4.pdf)
-- [GitHub](https://github.com/chandlerNick/dynamic-pricing-competition.git)
+- [GitHub](https://github.com/chandlerNick/dynamic-pricing-competition)
 
 ## 🦜 LangGraph Agentic Email Answering Demo
 - This project implements the demo from the article [Thinking in LangGraph](https://docs.langchain.com/oss/python/langgraph/thinking-in-langgraph). It was done with a group of 5 students.
