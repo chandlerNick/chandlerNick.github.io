@@ -38,11 +38,11 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - Placement (TBD... competition simulations are in progress)
 - [Competition Website](https://www.dynamic-pricing-competition.com/)
 - [Presentation 1](reports/DPC-Presentation-1.pdf) | [Presentation 2](reports/DPC-Presentation-2.pdf) | [Presentation 3](reports/DPC-Presentation-3.pdf) | [Presentation 4](reports/DPC-Presentation-4.pdf)
-- GitHub Repo is private
+- [GitHub](https://github.com/chandlerNick/dynamic-pricing-competition.git)
 
 ## 🦜 LangGraph Agentic Email Answering Demo
 - This project implements the demo from the article [Thinking in LangGraph](https://docs.langchain.com/oss/python/langgraph/thinking-in-langgraph). It was done with a group of 5 students.
-- I worked on serving the LLM on the university compute cluster (Nvidia A100 80GB GPUs), implementing the agent for our purposes, and "plumbing together" the LLM + Agent.
+- I worked on serving the LLM on the university compute cluster (Nvidia A100 80GB GPUs) using vLLM, Docker, and Kubernetes, implementing the agent for our purposes, and "plumbing together" the LLM + Agent.
 - [Presentation](reports/Agentic_Email_Automation_Presentation.pdf)
 - [GitHub](https://github.com/chandlerNick/langchain-multi-agent-demo)
 
