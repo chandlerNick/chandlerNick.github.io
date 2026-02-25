@@ -16,11 +16,11 @@ Coming soon... (hopefully)
 
 ## 📝 EBAI
 
-Coming soon... (hopefully) 
+Coming soon... (hopefully)
 
 ## 📝 MechDetect
 
-I ran the experiments for (and co-authored) this paper: [*MechDetect: Detecting Data-Dependent Errors*](https://arxiv.org/abs/2512.04138). It has been accepted at the IEEE conference Data Science and Intelligent Systems 2025.
+I ran the experiments for (and co-authored) this paper: [*MechDetect: Detecting Data-Dependent Errors*](https://ieeexplore.ieee.org/document/11390600). It has been accepted at the IEEE conference Data Science and Intelligent Systems 2025.
 
 **Abstract:**
 
