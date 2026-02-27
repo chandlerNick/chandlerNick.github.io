@@ -30,6 +30,11 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - [RAG Notebook](reports/RAG.html)
 - [GitHub](https://github.com/chandlerNick/Tax_Law_RAG)
 
+## 🎨 CURED: Creating, Understanding, & Repairing Errors Demonstrator
+- This demonstrator was intended to provide an interface to the research on errors in tabular data conducted at calgo-lab. 
+- We submitted a demonstrations track paper to ECAI 2026.
+- If it is still available, it is accessible here: [demo](https://cured.demo.calgo-lab.de/).
+
 ---
 
 ## 🪙 Dynamic Pricing Competition 2026
