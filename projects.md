@@ -37,10 +37,15 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 ---
 
+## 🧙‍♂️ boot.dev AI Agent
+- I worked through the boot.dev course to create an AI agent in Python.
+- It was modeled after agentic coding tools and is able to navigate the file system, read / write files, and execute Python code.
+- It was built using Google's GenAI SDK.
+- [GitHub](https://github.com/chandlerNick/ai-agent)
+
 ## 🪙 Dynamic Pricing Competition 2026
 - This was a long running project where I iterated on various designs for a revenue-maximizing algorithm under competition in a duopoly simulation.
 - I worked with one other person with whom I loosely collaborated in terms of ideas + data exchange.
-- Placement (TBD... competition simulations are in progress)
 - [Competition Website](https://www.dynamic-pricing-competition.com/)
 - [Presentation 1](reports/DPC-Presentation-1.pdf) | [Presentation 2](reports/DPC-Presentation-2.pdf) | [Presentation 3](reports/DPC-Presentation-3.pdf) | [Presentation 4](reports/DPC-Presentation-4.pdf)
 - [GitHub](https://github.com/chandlerNick/dynamic-pricing-competition)
