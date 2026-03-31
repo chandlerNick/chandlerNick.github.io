@@ -10,6 +10,8 @@ Here I will add some trip reports and random things that I want to document and 
 
 ---
 
+## Netherlands Trip - Mar. 2026
+
 ## Warsaw Trip - Jan. 2026
 
 ## Tampa Trip - Dec. 2025
