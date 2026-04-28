@@ -37,6 +37,11 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 ---
 
+## 📖 Data Science Master's Course
+- I assisted Professor Felix Biessmann in creating lecture material for a course on data science workflow and recommender systems.
+- I focused primarily on the data quality and ML model training and holistic evaluation sections.
+- The course is accessible [here](https://calgo-lab.de/data-science-workflow/).
+
 ## 🧙‍♂️ boot.dev AI Agent
 - I worked through the boot.dev course to create an AI agent in Python.
 - It was modeled after agentic coding tools and is able to navigate the file system, read / write files, and execute Python code.

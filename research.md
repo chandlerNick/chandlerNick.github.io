@@ -10,13 +10,35 @@ This page showcases academic research I have participated in. That is, projects 
 
 # Publications
 
-## 📝 Generating, Cleaning, and Characterizing Realistic Errors in Tables
+## 📝 CURED: Creating, Understanding, & Repairing Errors Demonstrator
 
 Coming soon... (hopefully)
 
-## 📝 EBAI
+## 📝 Probabalistic Neural Network Approach to Determining Parameters of Eclipsing Binaries
 
-Coming soon... (hopefully)
+I did research on developing a deep learning approach to determining the parameters of eclipsing binary star systems. The paper [Probabilistic neural network approach to determining parameters of eclipsing binaries](https://arxiv.org/pdf/2604.01281) was accepted to The Astronomical Journal. 
+
+**Abstract:**
+
+Eclipsing binaries provide one of the most direct mechanisms for measuring stellar properties such
+as mass and radius, but historically, determining these properties has been non-trivial and computationally prohibitive. As such, only a small fraction of all eclipsing binaries for which data have
+been available have been fully characterized. To improve computational efficiency, we construct an
+uncertainty-aware neural network which can ingest phase-folded light curves in any of 50 commonly
+used passbands, combined with phase-folded radial velocity measurements for both primary and secondary, as well as fluxes across the spectral energy distribution to predict stellar and orbital parameters
+of eclipsing binaries. The model was trained to be agnostic to the presence of third light, spots (both
+cool and hot), and incomplete data. As the model is operating in a probabilistic framework, it is also
+capable of outputting uncertainties in all of the parameters. The model was trained on synthetic data,
+and applied to a set of ∼200 previously solved real eclipsing binaries to demonstrate its performance.
+The model is capable of determining masses and radii of eclipsing binaries with precision of ≲20%
+and Teff with precision of ∼500 K in only a fraction of the time it takes the more traditional solvers.
+Although the resulting uncertainties are larger than what is possible to produce using more boutique
+analysis of individual stars, in the era of large photometric surveys, this approach allows to identify the
+most interesting systems, and it provides a starting point of the distributions in all of the parameters
+that these solvers could improve upon.
+
+**Contributions:**
+
+I worked on prototyping the pytorch bayesian neural network as a part of undergraduate research at Western Washington University.
 
 ## 📝 MechDetect
 

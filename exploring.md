@@ -10,7 +10,18 @@ Here I will add some trip reports and random things that I want to document and 
 
 ---
 
+## Sprint Triathlon - Apr. 2026
+- Swim:        00:24:02
+- Bike:        01:10:00
+- Run:         00:30:00
+- Transitions: 00:24:58
+- Total:       02:29:00
+
+## Luebeck Trip - Apr. 2026
+
 ## Netherlands Trip - Mar. 2026
+
+## Garmisch-Partenkirchen - Feb. 2026
 
 ## Warsaw Trip - Jan. 2026
 
