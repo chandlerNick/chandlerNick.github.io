@@ -32,7 +32,6 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 ## 🎨 CURED: Creating, Understanding, & Repairing Errors Demonstrator
 - This demonstrator was intended to provide an interface to the research on errors in tabular data conducted at calgo-lab.
-- We submitted a demonstrations track paper to ECAI 2026.
 - If it is still available, it is accessible here: [demo](https://cured.demo.calgo-lab.de/).
 
 ---
@@ -136,6 +135,10 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - The main techniques employed were clustering of time series and sequence mining. Traditional techniques for forecasting were not explored.
 - [Report](reports/AnalysisOfEnergyEconomicsTimeSeries.pdf)
 - [GitHub](https://github.com/chandlerNick/home/tree/main/WWU/Projects/DataScience_ML/EnergyTimeSeries)
+
+## ⚙️ 6502 Breadboard Computer Build
+- I followed along with Ben Eater's YouTube tutorial to create a clock from scratch and build a basic LED blinker program in Assembly that ran on a 6502 Breadboard computer.
+- [His course](https://eater.net/6502)
 
 ## ⚙️ Toy Operating System
 - In this project, as we worked through the textbook: Operating Systems Concepts 10th Edition, we had to individually implement (in KPL & Assembly) a toy operating system, the Blitz OS.

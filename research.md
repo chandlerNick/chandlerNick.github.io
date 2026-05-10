@@ -10,10 +10,6 @@ This page showcases academic research I have participated in. That is, projects 
 
 # Publications
 
-## 📝 CURED: Creating, Understanding, & Repairing Errors Demonstrator
-
-Coming soon... (hopefully)
-
 ## 📝 Probabalistic Neural Network Approach to Determining Parameters of Eclipsing Binaries
 
 I did research on developing a deep learning approach to determining the parameters of eclipsing binary star systems. The paper [Probabilistic neural network approach to determining parameters of eclipsing binaries](https://iopscience.iop.org/article/10.3847/1538-3881/ae5b79) was accepted to The Astronomical Journal. 
