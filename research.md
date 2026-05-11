@@ -12,7 +12,7 @@ This page showcases academic research I have participated in. That is, projects 
 
 ## 📝 Probabalistic Neural Network Approach to Determining Parameters of Eclipsing Binaries
 
-I did research on developing a deep learning approach to determining the parameters of eclipsing binary star systems. The paper [Probabilistic neural network approach to determining parameters of eclipsing binaries](https://iopscience.iop.org/article/10.3847/1538-3881/ae5b79) was accepted to The Astronomical Journal. 
+I did research on developing a deep learning approach to determining the parameters of eclipsing binary star systems. The paper [*Probabilistic Neural Network Approach to Determining Parameters of Eclipsing Binaries*](https://iopscience.iop.org/article/10.3847/1538-3881/ae5b79) was accepted to The Astronomical Journal. 
 
 **Abstract:**
 
@@ -86,6 +86,13 @@ I ran experiments to determine the scalability of the library with respect to me
 ---
 
 # Posters
+
+## 🧮 Schorfheide Summer School 2026 Poster (BHT)
+
+- In this poster, I presented some preliminary results from my master's thesis.
+- The poster concerns spatiotemporal modeling of groundwater with the goal of making forecasts of groundwater levels at sites with no historical data.
+- Done in association with Calgo Lab under supervision of Professor Felix Biessmann and PhD candidate Vipin Singh
+- [Poster](reports/calgolab-schorfheide-2026-poster.pdf)
 
 ## 🧮 Scholar's Week 2024 Poster (WWU)
 

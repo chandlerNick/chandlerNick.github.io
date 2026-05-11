@@ -16,7 +16,7 @@ permalink: /
 
 ## About Me
 
-I am currently pursuing a Master’s degree at BHT Berlin in Germany. Originally from Seattle, Washington, USA, I developed a deep interest in the transformative role of technology-particularly software-in shaping society. This curiosity led me to the field of Machine Learning and, more broadly, Artificial Intelligence, which continues to drive my academic and professional journey.
+I am currently pursuing a Master’s degree at BHT Berlin in Germany set to graduate in September 2026. Originally from Seattle, Washington, USA, I developed a deep interest in the transformative role of technology-particularly software-in shaping society. This curiosity led me to the field of Machine Learning and, more broadly, Artificial Intelligence, which continues to drive my academic and professional journey.
 
 I’m passionate about understanding how things work and am most inspired by creating solutions that can contribute meaningfully to progress and innovation.
 
