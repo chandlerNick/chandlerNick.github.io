@@ -12,6 +12,8 @@ permalink: /
 
 [🔗 LinkedIn](https://www.linkedin.com/in/chandler-nick)
 
+[🎓 Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AO4B3jvZqMCLBlZkH5hYFJ24ZesY9B-E530S0XKu39kw9Q__g0l8po6yiSTUsqLB69bpXCVwU7EyT4Eb4DGpaw&user=6h0rr5QAAAAJ)
+
 ---
 
 ## About Me

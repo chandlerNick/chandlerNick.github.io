@@ -10,10 +10,11 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 
 # Spotlight Projects
 
-## ☁️ Berlin PM2.5 Spatiotemporal Modeling
-- In this project, I built a data pipeline that scrapes a [website](https://sensor.community/en/) daily for sds011 sensor data, does ETL, does inference, and serves a simple front-end (internal to the university network). Each component was containerized with docker and deployed on the cluster with kubernetes.
-- I used Amazon's [Chronos2](https://arxiv.org/abs/2510.15821) time series foundation model and ordinary kriging to do spatiotemporal modeling.
-- [GitHub](https://github.com/chandlerNick/bln-aq)
+## 📖 Master's Thesis - Data-Driven Spatiotemporal Modeling in the Geosciences using Machine Learning
+- I worked for 4 months on the task of creating a spatiotemporal model to determine the groundwater level at unmeasured locations in Brandenburg, Germany with the German Ministry of Geosciences and Natural Resources.
+- Utilized timeseries forecasters, gaussian processes, and foundation models as well as several prototype models.
+- Documented the related work, methodology, results, and conclusions in a 144 page thesis.
+- Thesis available [here]() (after a successful defense).
 
 ## 📊 tab-err - Tabular Data Error Generation Library
 - Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
@@ -30,11 +31,16 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - [RAG Notebook](reports/RAG.html)
 - [GitHub](https://github.com/chandlerNick/Tax_Law_RAG)
 
+---
+
 ## 🎨 CURED: Creating, Understanding, & Repairing Errors Demonstrator
 - This demonstrator was intended to provide an interface to the research on errors in tabular data conducted at calgo-lab.
 - If it is still available, it is accessible here: [demo](https://cured.demo.calgo-lab.de/).
 
----
+## ☁️ Berlin PM2.5 Spatiotemporal Modeling
+- In this project, I built a data pipeline that scrapes a [website](https://sensor.community/en/) daily for sds011 sensor data, does ETL, does inference, and serves a simple front-end (internal to the university network). Each component was containerized with docker and deployed on the cluster with kubernetes.
+- I used Amazon's [Chronos2](https://arxiv.org/abs/2510.15821) time series foundation model and ordinary kriging to do spatiotemporal modeling.
+- [GitHub](https://github.com/chandlerNick/bln-aq)
 
 ## 📖 Data Science Master's Course
 - I assisted Professor Felix Biessmann in creating lecture material for a course on data science workflow and recommender systems.

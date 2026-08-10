@@ -4,15 +4,50 @@ title: "Research"
 permalink: /research/
 ---
 
-This page showcases academic research I have participated in. That is, projects that take place in an academic community with the intent of publishing.
+This page showcases academic research I have participated in. That is, projects that take place in an academic community with the intent of publishing. It is ordered from newest to oldest publication date.
 
 ---
 
 # Publications
 
+## 📝 CURED: Creating, Understanding, and Repairing Errors Demonstrator
+
+To summarize and make the work on errors and data quality accessible to a wider audience, I built a [demonstrator](https://cured.demo.calgo-lab.de/) and wrote an accompanying paper, [CURED: Creating, Understanding, and Repairing Errors Demonstrator](https://arxiv.org/pdf/2607.20140) while at Calgo-Lab. The paper is available as an arXiv preprint.
+
+**Abstract:**
+
+Detecting and cleaning errors in tabular data is a
+prerequisite for data intense software applications.
+Recent research at the intersection of Machine
+Learning (ML) and Database Management Systems (DBMS) highlights the potential of statistical
+learning algorithms for error detection and cleaning. This paper combines our recent work on MLbased data cleaning and error models in a unified
+demonstrator. The web application allows users to
+upload tabular data, perturb the data with realistic
+data dependent errors and use modern ML methods
+to clean and understand error mechanisms in data.
+Our demonstrator1 helps to bridge the gap between
+theoretical advancements and intuitive practical insights in the context of error models and data cleaning algorithms for tabular data. The demonstrator is
+available at [https://cured.demo.calgo-lab.de/](https://cured.demo.calgo-lab.de/).
+
+**Contributions:**
+
+I built the demonstrator and wrote the paper.
+
+## 📝 Anonymized but Useful Synthetic Tabular Health Data for AI based Fall Risk Assessment
+
+I assisted in writing code for the [Synthius](https://github.com/calgo-lab/Synthius) Python package which was used in the creation of the synthetic dataset in the paper [Anonymized but Useful Synthetic Tabular Health Data for AI based Fall Risk Assessment](https://www.nature.com/articles/s41597-026-07910-z#code-availability). It was accepted and published in Nature Scientific Data.
+
+**Abstract:**
+
+Artificial Intelligence (AI) bears potential for improving health care, but this depends on the availability of open-access, realistic, and useful data. To facilitate AI model development in health care we release SynTabFall, a novel synthetic dataset for fall risk assessment. With a total of 745,380 samples and 44 attributes such as demographics, diseases, mobility and cognition related risk factors, this tabular dataset allows for training fall risk prediction models without access to the original patient data. Models trained on our synthetic dataset can reach predictive performance scores in fall risk assessment which are on par with models trained on real data. To support others in sharing data we also describe a process that was developed over multiple years in one of Germany’s largest hospitals in close collaboration between data protection officers, health care staff, informaticians and AI engineers. The proposed data sharing approach combines established methods for anonymization and modern generative AI (genAI) methods for synthesizing tabular data and allows for sharing health care data responsibly without sacrificing its utility. We release the synthetic fall risk dataset along with the software developed for synthetic data generation and evaluation.
+
+**Contributions:**
+
+I wrote code for Synthius including an API, documentation, and a getting started guide.
+
 ## 📝 Probabalistic Neural Network Approach to Determining Parameters of Eclipsing Binaries
 
-I did research on developing a deep learning approach to determining the parameters of eclipsing binary star systems. The paper [*Probabilistic Neural Network Approach to Determining Parameters of Eclipsing Binaries*](https://iopscience.iop.org/article/10.3847/1538-3881/ae5b79) was accepted to The Astronomical Journal. 
+I did research on developing a deep learning approach to determining the parameters of eclipsing binary star systems. The paper [*Probabilistic Neural Network Approach to Determining Parameters of Eclipsing Binaries*](https://iopscience.iop.org/article/10.3847/1538-3881/ae5b79) was accepted and published in The Astronomical Journal. 
 
 **Abstract:**
 
@@ -38,7 +73,7 @@ I worked on prototyping the pytorch bayesian neural network as a part of undergr
 
 ## 📝 MechDetect
 
-I ran the experiments for (and co-authored) this paper: [*MechDetect: Detecting Data-Dependent Errors*](https://ieeexplore.ieee.org/document/11390600). It has been accepted at the IEEE conference Data Science and Intelligent Systems 2025.
+I ran the experiments for (and co-authored) this paper: [*MechDetect: Detecting Data-Dependent Errors*](https://ieeexplore.ieee.org/document/11390600). It was accepted at the IEEE conference Data Science and Intelligent Systems 2025 and published in the proceedings.
 
 **Abstract:**
 
@@ -48,9 +83,9 @@ Data quality monitoring is a core challenge in modern information processing sys
 
 I ran the experiments, produced some of the scientific visualizations, and wrote the prose.
 
-## 📝 Tab-Err
+## 📝 Towards realistic error models for tabular data
 
-I assisted with the revisions of (and co-authored) the paper: [*Towards Realistic Error Models for Tabular Data*](https://dl.acm.org/doi/10.1145/3774914). It has been accepted to the Journal of Data and Information Quality of the ACM.
+I assisted with the revisions of (and co-authored) the paper: [*Towards Realistic Error Models for Tabular Data*](https://dl.acm.org/doi/10.1145/3774914). It has been accepted and published in the Journal of Data and Information Quality of the ACM.
 
 **Abstract:**
 

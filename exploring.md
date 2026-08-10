@@ -10,6 +10,14 @@ Here I will add some trip reports and random things that I want to document and 
 
 ---
 
+## Trip to Scotland - Sept. 2026
+
+## Trip to Copenhagen/Malmö - August 2026
+
+## Trip to London - July 2026
+
+## Trip to Schorfheide - May 2026
+
 ## Sprint Triathlon - Apr. 2026
 - Swim:        00:24:02
 - Bike:        01:10:00
@@ -63,13 +71,19 @@ Here I will add some trip reports and random things that I want to document and 
 
 ## South Africa Trip - July 2024
 
+## Ski to Sea - May 2024
+
+- 7 part relay race consisting of cross country skiing, downhill skiing, running, road biking, canoeing, cyclocross biking, and sea kayaking.
+- Team 339 (Row Roe Rho You're Boot)
+- I did the road bike leg with 41 miles in 2:22:25.7
+- [Results Page](https://results.pacificmultisports.com/results/2024/team/339)
+
 ## Tahoe Trip - Mar. 2024
 
 ## Nashville Trip - Dec. 2023
 
 ## Seattle Half-Marathon - Nov. 2023
 - [Results Page](https://results.raceroster.com/v2/en-US/results/9k4gs2zpyympmtxs/results?search=chandler&page=1)
-
 
 ## Bellingham Bay Marathon - Sept. 2023
 - Search 'Chandler' in the Results Page
