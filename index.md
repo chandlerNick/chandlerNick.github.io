@@ -16,7 +16,7 @@ permalink: /
 
 ---
 
-> **🚀 Open to Work:** Seeking Data Science, Machine Learning, and AI roles in the US. Let's connect!
+**🚀 Open to Work:** Seeking Data Science, Machine Learning, and AI roles in the US. Let's connect!
 
 ---
 
