@@ -4,8 +4,6 @@ title: "Home"
 permalink: /
 ---
 
-# 👋 Hi, I'm Nick
-
 [📄 My one page resume](/assets/Nicks_Resume.pdf)
 
 [🐙 GitHub](https://github.com/chandlernick)
@@ -23,7 +21,7 @@ permalink: /
 
 ## About Me
 
-I am an early-career Data/ML/AI professional with 4 years of research experience, a Master's in Data Science and a Bachelor's in Computer Science.
+👋 Hi, I'm Nick, an early-career Data/ML/AI professional with 4 years of research experience, a Master's in Data Science and a Bachelor's in Computer Science.
 Originally from Seattle, Washington, USA, I developed a deep interest in the transformative role of technology-particularly software-in shaping society.
 This curiosity led me to the field of Machine Learning and, more broadly, Artificial Intelligence, which continues to drive my academic and professional journey.
 
