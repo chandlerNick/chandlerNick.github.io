@@ -14,7 +14,7 @@ Here I list noteworthy projects that I have built (or added to) either alone or 
 - I worked for 4 months on the task of creating a spatiotemporal model to determine the groundwater level at unmeasured locations in Brandenburg, Germany with the German Ministry of Geosciences and Natural Resources.
 - Utilized timeseries forecasters, gaussian processes, and foundation models as well as several prototype models.
 - Documented the related work, methodology, results, and conclusions in a 144 page thesis.
-- Thesis available [here]() (after a successful defense).
+- Thesis available here: [thesis](reports/BHT_Masters_Thesis.pdf).
 
 ## 📊 tab-err - Tabular Data Error Generation Library
 - Working at the BHT's [Calgo Lab](https://calgo-lab.de/) with Sebastian Jaeger I added to the tab-err, realistic errors in tabular data, package on PyPi.
