@@ -10,6 +10,8 @@ Here I will add some trip reports and random things that I want to document and 
 
 ---
 
+## Trip to Naples, Sorrento, & Amalfi - Sept. 2026
+
 ## Trip to Scotland - Sept. 2026
 
 ## Trip to Copenhagen/Malmö - August 2026
