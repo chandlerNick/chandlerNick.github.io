@@ -14,7 +14,7 @@ Here I keep miscellaneous items.
 - [Program Guide](misc/BHT_Program_Guide.pdf)
 - [Courses (in German)](misc/BHT_MSDS_Courses.pdf)
 - [Website](https://www.bht-berlin.de/en/m-ds)
-- [Diploma Coming Soon...]()
+- [Diploma](misc/BHT_Diploma)
 
 ## WWU Bachelor of Computer Science
 - [Transcript of Records](misc/WWU_UO_Transcript.pdf)
