@@ -156,3 +156,9 @@ I ran experiments to determine the scalability of the library with respect to me
 - [CalgoLab](https://calgo-lab.de/)
 - [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html)
 - [WWU Mathematics Department](https://mathematics.wwu.edu/)
+
+---
+
+# Academic CV
+
+My academic CV is accessible here: [CV](assets/Academic_CV.pdf)
