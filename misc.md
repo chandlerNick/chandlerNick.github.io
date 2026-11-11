@@ -10,6 +10,7 @@ Here I keep miscellaneous items.
 
 ## BHT Master of Data Science
 - 1.0 in the German system is an A in the American system ([BHT Grading Policy](https://www.bht-berlin.de/en/4377)).
+- [World Education Services Credential Evaluation](misc/BHT_MSDS_UO_WES_Eval.pdf)
 - [Transcript of Records](misc/BHT_UO_Transcript.pdf)
 - [Program Guide](misc/BHT_Program_Guide.pdf)
 - [Courses (in German)](misc/BHT_MSDS_Courses.pdf)
