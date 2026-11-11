@@ -9,15 +9,15 @@ Here I keep miscellaneous items.
 ---
 
 ## BHT Master of Data Science
-- 1.0 in the German system is an A in the American system ([BHT Grading Policy](https://www.bht-berlin.de/en/4377)).
+- [Diploma](misc/BHT_Diploma.pdf)
 - [World Education Services Credential Evaluation](misc/BHT_MSDS_UO_WES_Eval.pdf)
-- [Transcript of Records](misc/BHT_UO_Transcript.pdf)
+- [Degree Website](https://www.bht-berlin.de/en/m-ds)
 - [Program Guide](misc/BHT_Program_Guide.pdf)
 - [Courses (in German)](misc/BHT_MSDS_Courses.pdf)
-- [Website](https://www.bht-berlin.de/en/m-ds)
-- [Diploma](misc/BHT_Diploma.pdf)
+
 
 ## WWU Bachelor of Computer Science
+- [Diploma](misc/WWU_Diploma.pdf)
 - [Transcript of Records](misc/WWU_UO_Transcript.pdf)
 - [Program Guide](https://catalog.wwu.edu/preview_program.php?catoid=19&poid=9017&returnto=5164)
-- [Diploma](misc/WWU_Diploma.pdf)
+

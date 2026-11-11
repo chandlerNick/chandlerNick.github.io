@@ -13,3 +13,4 @@ This repository contains a Jekyll-based GitHub Pages portfolio site.
 - `misc.md` – Page listing misc. stuff
 - `reports/` – Reports/presentations/posters on various projects
 - `assets/` – Static files
+- `misc/` – Miscellaneous files
